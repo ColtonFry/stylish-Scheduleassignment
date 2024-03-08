@@ -1,20 +1,6 @@
-<style>
-  table {
-    width:500px;
-    margin:auto;
-    background-color:#555577;
-    color:#FFFFFF;
-  }
-  td {
-    padding:10px;
-  }
-  tr.lighter {
-    font-size:20px;
-    background-color:#8888AA;
-  }
-</style>
 
 <table>
+ <caption>March 2024</caption>
   <tr>
     <td>Cell 1</td>
     <td>Cell 2</td>
