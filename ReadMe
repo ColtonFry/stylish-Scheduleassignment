@@ -1,3 +1,4 @@
+<h1>Schedule</h1>
 <style>
     table, tr, td {
         border: 4px solid black;
@@ -45,14 +46,38 @@
             </tr>
             <tr class="lighter">
                 <td>March 8th</td>
-                <td>Yard WOrk</td>
+                <td>Yard Work</td>
                 <td>All Day</td>
                 <td>Grass, Trimming, Tree</td>
             </tr>
-                        <tr class="lighter">
-                <td>March 5th</td>
-                <td>No work</td>
-                <td>Free</td>
-                <td>No Plans</td>
+            <tr class="lighter">
+                <td>March 12th</td>
+                <td>Skate Park</td>
+                <td>6:30pm</td>
+                <td>Bring Snacks</td>
             </tr>
-        </table>
+        </tr>
+        <tr class="lighter">
+            <td>March 14th</td>
+            <td>Cindy's Birthday</td>
+            <td>All Day</td>
+            <td>Buy Flowers</td>
+        </tr>
+        <tr class="lighter">
+            <td>March 22nd</td>
+            <td>Doctor's Appt</td>
+            <td>3:15pm</td>
+            <td>Take New Insurance Card</td>
+        </tr>
+        <tr class="lighter">
+            <td>March 24th</td>
+            <td>Travel Day</td>
+            <td>10:00am</td>
+            <td>Be On Road By 10:00am</td>
+        </tr>
+        <tr class="lighter">
+            <td>March 27th</td>
+            <td>Start of Vacation</td>
+            <td>All Week Long</td>
+            <td>Do What Ever I Want</td>
+        </tr>
