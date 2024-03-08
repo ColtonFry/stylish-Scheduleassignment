@@ -1,14 +1,40 @@
-
+<style>
+    table, tr, td {
+        border: 4px solid black;
+    }
+</style>
+<caption>March 2024</caption>
 <table>
- <caption>March 2024</caption>
-  <tr>
-    <td>Cell 1</td>
-    <td>Cell 2</td>
-    <td>Cell 3</td>
-  </tr>
-  <tr class="lighter">
-    <td>Cell 4</td>
-    <td>Cell 5</td>
-    <td>Cell 6</td>
-  </tr>
-</table>
+
+    <thead>
+
+        <style>
+            table {
+                width: 500px;
+                margin: auto;
+                background-color: #555577;
+                color: #FFFFFF;
+            }
+            td {
+                padding: 10px;
+            }
+            tr.lighter {
+                font-size: 20px;
+                background-color: #8888AA;
+            }
+        </style>
+
+        <table>
+            <tr>
+                <td>Date</td>
+                <td>Location</td>
+                <td>Time</td>
+                <td>Notes</td>
+            </tr>
+            <tr class="lighter">
+                <td>3-1-2024</td>
+                <td> Dinner 6:00pm Hoss's</td>
+                <td>5:15pm</td>
+                <td>Family Dinner</td>
+            </tr>
+        </table>
